@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piyush-hack
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning FRONT END framework REACH
+- 🌱 I’m currently learning FRONT END framework REACT
 - 💞️ I’m looking to collaborate on any project as a full stack developer
 - 📫 How to reach me - You can contact me on my whats app no 7533946257
 
