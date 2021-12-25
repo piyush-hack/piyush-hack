@@ -9,7 +9,7 @@ Hey there 👋
 
 I’m Piyush, a full-stack developer and creative coder who specializes in front-end development and back-end development both. I make it my mission to translate user-focused designs and functionalities into pixel-perfect websites or applications that run blazing fast.
 
-Want to know more about me? [Check out my portfolio.](http://piyush-hack.github.io/mysecwebpage/front_page.html)
+Want to know more about me? [Check out my portfolio.](https://piyush-hack.github.io/portfolio/home.html)
 
 [](#-latest-blog-posts)📝 Latest Blog Posts
 -------------------------------------------
