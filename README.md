@@ -14,12 +14,12 @@ Want to know more about me? [Check out my portfolio.](https://piyush-hack.github
 [](#-latest-blog-posts)📝 Latest Blog Posts
 -------------------------------------------
 
+*   [Build a WYSIWYG text editor using Quill](https://noteyard.piyushdev.xyz/blogpost/62238eb352036d4480e8622a)
 *   [Consensus Algorithm](https://view.genial.ly/62023dfe81955a001a0ccd5a/dossier-consensus-algorthims)
-*   [Wierd But True](https://medium.com/@piyushpuniya2001/wierd-but-true-20-weird-facts-18525604c752)
 *   [Upload File On Drive From My Website😏](https://campusmentor.herokuapp.com/blog?id=61a4f337184a910016d59f13)
 *   [Sending SMS with Twilio in a Node.js Application](https://campusmentor.herokuapp.com/blog?id=61961c858a0a98001687a349)
 *   [Create Logo Like Netflix](https://campusmentor.herokuapp.com/blog?id=61645c37aa7fcd00163d78ca)
-*   [Visit More](https://campusmentor.herokuapp.com/userBlog/piyush)
+*   [Visit More](https://noteyard.piyushdev.xyz/)
 
   
 
@@ -39,6 +39,7 @@ Want to know more about me? [Check out my portfolio.](https://piyush-hack.github
 
 ### Front-end Languages
 ---------------------
+[![](https://img.shields.io/static/v1?label=Lang&message=ReactJs&color=4AB195)](https://github.com/piyush-hack)  
 [![](https://img.shields.io/static/v1?label=Lang&message=HTML5&color=4AB197)](https://github.com/piyush-hack)                                                                                   [![](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/piyush-hack)    [![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 )](https://github.com/piyush-hack)    [![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/piyush-hack)    [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/piyush-hack)    [![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/piyush-hack)    [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/piyush-hack)   
 
