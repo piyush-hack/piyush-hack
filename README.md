@@ -14,7 +14,7 @@ Want to know more about me? [Check out my portfolio.](https://piyush-hack.github
 [](#-latest-blog-posts)📝 Latest Blog Posts
 -------------------------------------------
 
-*   [Build a WYSIWYG text editor using Quill](https://noteyard.piyushdev.xyz/blogpost/62238eb352036d4480e8622a)
+*    [Create CK-Editor In React](https://noteyard.piyushdev.xyz/blogpost/62347038802b0390bc078843)  [Build a WYSIWYG text editor using Quill](https://noteyard.piyushdev.xyz/blogpost/62238eb352036d4480e8622a)
 *   [Consensus Algorithm](https://view.genial.ly/62023dfe81955a001a0ccd5a/dossier-consensus-algorthims)
 *   [Upload File On Drive From My Website😏](https://campusmentor.herokuapp.com/blog?id=61a4f337184a910016d59f13)
 *   [Sending SMS with Twilio in a Node.js Application](https://campusmentor.herokuapp.com/blog?id=61961c858a0a98001687a349)
