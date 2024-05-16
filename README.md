@@ -13,13 +13,8 @@ Want to know more about me? [Check out my portfolio.](https://piyush-hack.github
 
 [](#-latest-blog-posts)📝 Latest Blog Posts
 -------------------------------------------
-
-*    Consensuses Algorithms In BlockChain [here](https://noteyard.piyushdev.xyz/blogpost/625e8bb96ca276b8a1a3a2b9) / [here](https://medium.com/@piyushpuniya2001/consensuses-algorithms-8a350b31e9f6)
-*    [Create CK-Editor In React](https://noteyard.piyushdev.xyz/blogpost/62347038802b0390bc078843) and [Build a WYSIWYG text editor using Quill](https://noteyard.piyushdev.xyz/blogpost/62238eb352036d4480e8622a)
-*   [Upload File On Drive From My Website😏](https://campusmentor.herokuapp.com/blog?id=61a4f337184a910016d59f13)
-*   [Sending SMS with Twilio in a Node.js Application](https://campusmentor.herokuapp.com/blog?id=61961c858a0a98001687a349)
-*   [Create Logo Like Netflix](https://campusmentor.herokuapp.com/blog?id=61645c37aa7fcd00163d78ca)
-*   [Visit More](https://noteyard.piyushdev.xyz/)
+*    [Conceptual implementaion of mutex for master-slaves process](https://medium.com/@piyushpuniya2001/conceptual-implementaion-of-mutex-for-master-slaves-process-85af04ef00cf)
+*    Consensuses Algorithms In BlockChain [here](https://medium.com/@piyushpuniya2001/consensuses-algorithms-8a350b31e9f6)
 
   
 
